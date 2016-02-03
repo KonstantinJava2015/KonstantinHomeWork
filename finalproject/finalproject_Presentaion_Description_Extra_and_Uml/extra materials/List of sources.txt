@@ -1,0 +1,6 @@
+1.https://en.wikipedia.org/wiki/Dichotomy
+2.Cay S. Horstmann "Core Java 2, Volume I--Fundamentals"
+3.https://www.youtube.com/user/caveofprogramming 
+4.http://www.cyberforum.ru/csharp-net/thread147417.html
+5.http://www.intuit.ru/studies/courses/1020/188/lecture/4929
+6.http://www.quizful.net/post/java-exceptions
